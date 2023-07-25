@@ -144,9 +144,9 @@ img{
 }
 
 .footer {
-  justify-content: space-evenly ;
+  justify-content:space-evenly;
   display: flex;
-  float: inline-start;
+  float: inline-end;
   align-items: center;
   padding: 15px;
   bottom: 0;
@@ -156,15 +156,12 @@ img{
 }
 .navbar {
   list-style: none;
-  justify-content: space-evenly;
 }
 .navbar li{
   display: inline-block;
-  align-items: center;
 }
 .navbar a {
   color: #084C61;
-  align-items: center;
   text-align: center;
   padding: 30px 16px;
   text-decoration: none;
